@@ -1,7 +1,7 @@
 
 ### Status
 
-I'm currently a full-time freelancer, with a focus on WordPress and iOS development.
+I'm currently a part-time freelancer, with a focus on AWS Cloud, DevOps, Linux, and IT Consulting.
 
 ### Dev History
 
